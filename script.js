@@ -19,9 +19,9 @@ function btn() {
     if (!name || !dob || !email || !mnumber || !gender || !occupation || !idType || !idNumber || !issueAthourity || !issueDate || !issueState || !issueState || expiryDate === "") {
         alert("invalid input")
         return false;
-    } else {
+    }
         alert("success")
         return true;
-    }
+    
 
 }

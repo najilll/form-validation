@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.main{
+    background-color: rgb(64, 113, 244);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bgclr{
+    background-color: #fff;
+    width: 50%;
+    height: 75vh;
+    border-radius: 10px;
+}
+.tittle-1{
+    padding: 10px;
+}
+.input-field-1{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.input-field-1 input{
+    border-radius: 5px;
+    width: 220px;
+    height: 4vh;
+    border: 1px solid #555555;
+    color: #555555;
+    padding: 5px;
+}
+.input-field-2{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.input-field-2 input{
+    border-radius: 5px;
+    width: 220px;
+    height: 4vh;
+    border: 1px solid #555555;
+    color: #555555;
+    padding: 5px;
+}
+#gender{
+    border-radius: 5px;
+    width: 220px;
+    height: 5.5vh;
+    border: 1px solid #555555;
+    color: #555555;
+    padding: 5px;
+}
+.register{
+    width: 96%;
+    height: 23vh;
+    margin: 16px;
+
+}
+.input-field-3{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.input-field-3 input{
+    border-radius: 5px;
+    width: 220px;
+    height: 4vh;
+    border: 1px solid #555555;
+    color: #555555;
+    padding: 5px;
+}
+.input-field-4{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.input-field-4 input{
+    border-radius: 5px;
+    width: 220px;
+    height: 4vh;
+    border: 1px solid #555555;
+    color: #555555;
+    padding: 5px;
+}
+.tittle-2{
+    padding: 10px;
+}
+.button button{
+    background-color: blue;
+    width: 200px;
+    height: 5vh;
+    color: #fff;
+    border-radius: 7px;
+    font-size: larger;
+    font-weight: 900;
+    
+}
+.button{
+    margin: 10px;
+    margin-left: 28px;
+}

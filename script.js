@@ -21,7 +21,9 @@ function btn() {
         return false;
     }
         alert("success")
+        window.open("welcome.html")
         return true;
+        
     
 
 }

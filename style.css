@@ -94,3 +94,7 @@
     margin: 10px;
     margin-left: 28px;
 }
+.input-edit{
+    border: 1px solid red !important;
+    
+}
